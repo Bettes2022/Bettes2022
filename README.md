@@ -1,6 +1,6 @@
 # Sobre mim
 
-- 👋 Olá, eu sou @Bettes2022;
+- 👋 Olá, eu sou _@Bettes2022_;
 - 👀 Eu estou interessado em conseguir boas notas;
 - 🌱 E estou aprendendo novas linguagens de programação;
 
